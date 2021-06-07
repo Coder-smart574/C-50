@@ -1,0 +1,23 @@
+.header{
+    display: flex;
+    flex: wrap;
+    justify-content: space-evenly;
+    background-color: aqua; 
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.item{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.designborder{
+    border: 2px turquoise;
+    border-radius: 25px;
+    border-style:dotted;
+}
